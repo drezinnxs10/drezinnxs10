@@ -30,7 +30,7 @@
 </a>
 <a href="https://www.instagram.com/@_drezinnxs10" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" />
-  <a href="https://wa.me/11989795701" target="_blank">
+  <a href="https://wa.me/(11)989795701" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/whatsapp.png" alt="WhatsApp" />
 </a>
 </div>
