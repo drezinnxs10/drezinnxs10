@@ -21,7 +21,7 @@
 </div>
 
 ##
-<h1>Social Media</h1>
+<h1><br>Social Media<br></h1>
 <div style="font-size: 24px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
