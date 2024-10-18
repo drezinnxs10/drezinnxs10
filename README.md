@@ -6,15 +6,18 @@
 - 📌 Estou cursando também Análise de Desenvolvimento de Sistemas na UNICESUMAR/EAD
 - 📫 Contrate-me no email: andrezinnyt08@gmail.com
 
-    <h1><br>GitHub Stack<br></h1>
-    <a href-"https://github.com/drezinnxs10">
-   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=dark" alt="Linguagens de Programação" /></div>
+    </div>
 <h1><br>My Stack<br></h1>
 <div style="display: incline_block"><br>
 <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+</div>
+ <h1><br>GitHub Stack<br></h1>
+    <a href-"https://github.com/drezinnxs10">
+   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=dark" alt="Linguagens de Programação" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=dark" alt="drezinnxs10"/>
 </div>
 
 ##
