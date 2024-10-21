@@ -1,9 +1,15 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)]()
+
+<img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "270px" align = "right">
+
+
 ## Ola! Meu nome é André Luiz Matos Pereira
 
 
 - 🔭 Atualmente, estou estudando front-end usando HTML/CSS/JavaScript
 - 📌 Estou cursando Técnico em Informática no SENAC
 - 📌 Estou cursando também Análise de Desenvolvimento de Sistemas na UNICESUMAR/EAD
+- ❤  Sou apaixonado por tecnologia, música e esportes
 - 📫 Contrate-me no email: andrezinnyt08@gmail.com
 
     </div>
