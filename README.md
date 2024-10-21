@@ -6,7 +6,7 @@
 ## Ola! Meu nome é André Luiz Matos Pereira
 
 
-- 🔭 Atualmente, estou estudando front-end usando HTML/CSS/JavaScript
+- 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript
 - 📌 Estou cursando Técnico em Informática no SENAC
 - 📌 Estou cursando também Análise de Desenvolvimento de Sistemas na UNICESUMAR/EAD
 - ❤  Sou apaixonado por tecnologia, música e esportes
