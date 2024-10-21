@@ -3,7 +3,7 @@
 <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "270px" align = "right">
 
 
-## Ola! Meu nome é André Luiz Matos Pereira
+# Ola! Meu nome é André Luiz Matos Pereira
 
 
 - 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript
@@ -26,14 +26,14 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=dark" alt="drezinnxs10"/>
 </div>
 
-##
+#
 <h1><br>Social Media<br></h1>
 <div style="font-size: 24px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/@_drezinnxs10" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://wa.me/+5511989795701" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -41,6 +41,12 @@
     <a href="https://instagram.com/_drezinnxs10" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+<a href="mailto:andrezinnyt08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-F8F8FF?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+</a>
+
+ 
+
 </div>
 
 <picture align="center">
