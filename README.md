@@ -1,12 +1,12 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/source/bbefa799786133.5efa9bf3d1b49.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif)]()
 
-<img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
+
 
 
 # Ola! Meu nome é André Luiz Matos Pereira
 
 
-- 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript
+- 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
 - 📌 Estou cursando Técnico em Informática no SENAC
 - 📌 Estou cursando também Análise de Desenvolvimento de Sistemas na UNICESUMAR/EAD
 - ❤  Sou apaixonado por tecnologia, música e esportes
@@ -15,15 +15,16 @@
     </div>
 <h1><br>My Stack<br></h1>
 <div style="display: incline_block"><br>
-<img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
+<img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=FFFAFA" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
 </div>
  <h1><br>GitHub Stack<br></h1>
     <a href-"https://github.com/drezinnxs10">
-   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=cobalt" alt="Linguagens de Programação" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=cobalt" alt="drezinnxs10"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=highcontrast" alt="Estatísticas do GitHub" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=highcontrast" alt="Linguagens de Programação" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=highcontrast" alt="drezinnxs10"/>
 </div>
 
 #
@@ -41,9 +42,7 @@
     <a href="https://instagram.com/_drezinnxs10" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-363636?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-<a href="mailto:andrezinnyt08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-363636?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+
 
  
 
