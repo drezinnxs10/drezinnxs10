@@ -2,8 +2,7 @@
 
 
 
-
-# Ola! Meu nome é André Luiz Matos Pereira
+# Ola! Meu nome é André Luiz Matos Pereira 😘
 
 
 - 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
@@ -12,23 +11,22 @@
 - ❤  Sou apaixonado por tecnologia, música e esportes
 - 📫 Contrate-me no email: andrezinnyt08@gmail.com
 
-    </div>
-<h1><br>My Stack<br></h1>
+
+<h1><br>📊My Stack<br></h1>
 <div style="display: incline_block"><br>
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=FFFAFA" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
 </div>
- <h1><br>GitHub Stack<br></h1>
+ <h1><br>📊GitHub Stack<br></h1>
     <a href-"https://github.com/drezinnxs10">
    <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=highcontrast" alt="Estatísticas do GitHub" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=highcontrast" alt="Linguagens de Programação" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=highcontrast" alt="drezinnxs10"/>
 </div>
 
-#
-<h1><br>Social Media<br></h1>
+<h1><br>✔Social Media<br></h1>
 <div style="font-size: 24px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,9 +41,14 @@
         <img src="https://img.shields.io/badge/Instagram-363636?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 
+### <h1><br>🎮 My Favorite Hobbies</br></h1>
+[![EASPORTS](https://img.shields.io/badge/EA_SPORTS-FFFAFA?style=for-the-badge&logo=ea&logoColor=black)](https://www.ea.com/games/fifa)
+[![BandLab](https://img.shields.io/badge/BandLab-FF1D25?style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
 
  
-
 </div>
 
 <picture align="center">
