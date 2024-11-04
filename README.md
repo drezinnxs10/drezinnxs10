@@ -2,7 +2,7 @@
 
 
 
-# Ola! Meu nome é André Luiz Matos Pereira 😘 [![](https://visitcount.itsvg.in/api?id=joao8675&icon=0&color=0)](https://visitcount.itsvg.in)
+# Ola! Meu nome é André Luiz Matos Pereira 😘 [![](https://visitcount.itsvg.in/api?id=drezinnxs10icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
