@@ -7,7 +7,7 @@
 </a>
 
 
-- 🔭 Atualmente, estou estudando front-end utilizando HTML/CSS/JavaScript <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
+- 🔭 Atualmente, estou estudando front-end <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
 - 📌 Estou cursando Técnico em Informática no SENAC
 - 📌 Estou cursando também Análise de Desenvolvimento de Sistemas na UNICESUMAR/EAD
 - ❤  Sou apaixonado por tecnologia, música e esportes
