@@ -2,8 +2,8 @@
 
 
 
-# Ola! Meu nome é André Luiz Matos Pereira 😘 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=drezinnxs10&label=Profile%20Views&color=8&icon=7&pretty=true" />
+# Ola! Meu nome é André Luiz Matos Pereira <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=drezinnxs10&label=Profile%20Views&color=6666&icon=&pretty=true" />
 </a>
 
 
@@ -17,6 +17,9 @@
 <h1><br>📊My Stack<br></h1>
 <div style="display: incline_block"><br>
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=FFFAFA" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3F?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+<img src="https://img.shields.io/badge/VirtualBox-1E90FF?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
