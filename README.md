@@ -32,6 +32,8 @@
 </div>
 
 <h1><br>✔Social Media<br></h1>
+<img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif?cid=790b7611cgez05fmbv48vlihp0nt8t39rs2vrgjbgdv25p5u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool GIF" width="500"/>
+
 <div style="font-size: 24px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
