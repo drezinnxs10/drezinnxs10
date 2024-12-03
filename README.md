@@ -3,7 +3,7 @@
 
 
 # Hello everyone! My name is André Luiz Matos Pereira <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=drezinnxs10&label=Profile%20Views&color=6666&icon=&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=drezinnxs10&label=Profile%20Views&color=6&icon=&pretty=true" />
 </a>
 
 
