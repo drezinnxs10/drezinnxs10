@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
 
 
 
@@ -23,9 +23,9 @@
 </div>
  <h1><br>📊GitHub Stack<br></h1>
     <a href-"https://github.com/drezinnxs10">
-   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=highcontrast" alt="Estatísticas do GitHub" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=highcontrast" alt="Linguagens de Programação" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=highcontrast" alt="drezinnxs10"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=tokyonight" alt="Linguagens de Programação" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=tokyonight" alt="drezinnxs10"/>
 </div>
 
 <h1><br>✔Social Media<br></h1>
