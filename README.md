@@ -3,8 +3,7 @@
 
 
 # Hello everyone! My name is André Luiz Matos Pereira <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=drezinnxs10&label=Profile%20Views&color=6&icon=&pretty=true" />
-</a>
+
 
 
 - 🔭 Atualmente, estou estudando front-end <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
@@ -28,7 +27,6 @@
     <a href-"https://github.com/drezinnxs10">
    <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=tokyonight" alt="Linguagens de Programação" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=tokyonight" alt="drezinnxs10"/>
 </div>
 
 <h1><br>✔Social Media<br></h1>
