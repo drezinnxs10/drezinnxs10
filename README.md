@@ -27,6 +27,8 @@
     <a href-"https://github.com/drezinnxs10">
    <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=tokyonight" alt="Linguagens de Programação" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drezinnxs10&theme=tokyonight" alt="drezinnxs10"/>
+</div>
 </div>
 
 <h1><br>✔Social Media<br></h1>
@@ -34,7 +36,7 @@
 
 <div style="font-size: 24px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/@_drezinnxs10" target="_blank">
        <img src="https://img.shields.io/badge/Twitter-363636?style=for-the-badge&logo=x&logoColor=white" alt="X" />
@@ -48,10 +50,12 @@
 
 ### <h1><br>🎮 My Favorite Hobbies</br></h1>
 [![EASPORTS](https://img.shields.io/badge/EA_SPORTS-FFFAFA?style=for-the-badge&logo=ea&logoColor=black)](https://www.ea.com/games/fifa)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com)
 [![BandLab](https://img.shields.io/badge/BandLab-FF1D25?style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
+
 
  
 </div>
