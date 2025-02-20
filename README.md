@@ -1,6 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/drezinnxs10/count.svg"/>
+
+
 
 # Hello everyone! My name is André Luiz Matos Pereira <a href="https://visitcount.itsvg.in">
 
