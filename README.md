@@ -21,12 +21,15 @@
 <h1><br>📊My Stack<br></h1>
 <div style="display: incline_block"><br>
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=FFFAFA" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3F?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-<img src="https://img.shields.io/badge/VirtualBox-1E90FF?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3F?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+<img src="https://img.shields.io/badge/VirtualBox-1E90FF?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+
 </div>
  <h1><br>📊GitHub Stack<br></h1>
     <a href-"https://github.com/drezinnxs10">
@@ -60,6 +63,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+
 
 
  
