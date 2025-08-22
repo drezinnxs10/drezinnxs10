@@ -11,10 +11,9 @@
 
 
 - 🔭 Atualmente, estou estudando programação <img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "250px" align = "right">
-- 📌 Estou cursando Técnico em Informática no SENAC
-- 📌 Estou cursando também Análise de Desenvolvimento de Sistemas na UNICESUMAR/EAD
+- 📌 Cursando Técnico em Informática no SENAC
+- 📌 Cursando Gestão da Tecnologia da Informação na UNICESUMAR/EAD
 - ❤  Sou apaixonado por tecnologia, música e esportes
-- 📫 Contrate-me no email: andrezinnyt08@gmail.com
 
 
 <h1><br>📊My Stack<br></h1>
