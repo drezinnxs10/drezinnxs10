@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
+<img src = "https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif">
 
 
 
@@ -19,21 +19,18 @@
 <h1><br>📊My Stack<br></h1>
 <div style="display: incline_block"><br>
 <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=FFFAFA" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=FFD43B" alt="css3" />
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3F?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-<img src="https://img.shields.io/badge/VirtualBox-1E90FF?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 
 </div>
  <h1><br>📊GitHub Stack<br></h1>
     <a href-"https://github.com/drezinnxs10">
-   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=tokyonight" alt="Linguagens de Programação" />
+   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=gruvbox" alt="Estatísticas do GitHub" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=gruvbox" alt="Linguagens de Programação" />
    
 </div>
 </div>
@@ -43,17 +40,20 @@
 
 <div style="font-size: 26px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/@_drezinnxs10" target="_blank">
-       <img src="https://img.shields.io/badge/Twitter-363636?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+       <img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://wa.me/+5511989795701" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-363636?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        <img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="https://instagram.com/_drezinnxs10" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-363636?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+</div>
+
+
 
 ### <h1><br>🎮 My Favorite Hobbies</br></h1>
 [![EASPORTS](https://img.shields.io/badge/EA_SPORTS-FFFAFA?style=for-the-badge&logo=ea&logoColor=black)](https://www.ea.com/games/fifa)
