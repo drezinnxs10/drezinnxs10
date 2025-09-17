@@ -40,16 +40,16 @@
 
 <div style="font-size: 26px;">
     <a href="https://linkedin.com/in/andré-luiz-matos-pereira-633244282/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-CD853F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/@_drezinnxs10" target="_blank">
-       <img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+       <img src="https://img.shields.io/badge/Twitter-CD853F?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://wa.me/+5511989795701" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        <img src="https://img.shields.io/badge/WhatsApp-CD853F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="https://instagram.com/_drezinnxs10" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-CD853F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 </div>
 
