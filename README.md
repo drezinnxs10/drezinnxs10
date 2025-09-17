@@ -59,10 +59,8 @@
 [![EASPORTS](https://img.shields.io/badge/EA_SPORTS-FFFAFA?style=for-the-badge&logo=ea&logoColor=black)](https://www.ea.com/games/fifa)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com)
 [![BandLab](https://img.shields.io/badge/BandLab-FF1D25?style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 
 
