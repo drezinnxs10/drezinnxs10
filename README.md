@@ -3,7 +3,10 @@
 
 
 
-# Hello everyone! My name is André Luiz Matos Pereira <a href="https://visitcount.itsvg.in">
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&center=true&color=CD853F&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋;+Andre's+here!+😘;" />
+</h1>
+
 
 
 
