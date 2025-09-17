@@ -29,9 +29,9 @@
 </div>
  <h1><br>📊GitHub Stack<br></h1>
     <a href-"https://github.com/drezinnxs10">
-   <img src="https://github-readme-stats.vercel.app/api?username=drezinnxs10&show_icons=true&theme=gruvbox" alt="Estatísticas do GitHub" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=drezinnxs10&theme=gruvbox&hide_border=true" alt="Streak do GitHub" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drezinnxs10&layout=compact&theme=gruvbox" alt="Linguagens de Programação" />
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=drezinnxs10&theme=gruvbox&hide_border=false" alt="Streak do GitHub" />
+   
    
 </div>
 </div>
